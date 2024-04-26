@@ -1,0 +1,3 @@
+Activity 12.2 Feedback
+
+I built this program using the MergeSort example from lecture. I used the same method to count the comparisons being made in the sort process. I also used a similar method to getting the size and elements from the scanner object. After building the InsertionSort program for the previous activity, this one came together very quickly.
